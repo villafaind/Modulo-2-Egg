@@ -1,0 +1,7 @@
+$ git init
+$ git remote add origin URLpropia
+$ git status
+$ git remote -v
+$ git add .
+$ git commit -m "Modulo e Egg"
+$ git push origin master
